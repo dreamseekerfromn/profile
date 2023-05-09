@@ -2,7 +2,7 @@
 
 Sung Yi
 
-10.2 Pursuit Fellower | Graduated University of Missouri - St.Louis in 2017, (bachelor's degree of computer science)
+10.2 Pursuit Fellow | Graduated University of Missouri - St.Louis in 2017, (bachelor's degree of computer science)
 
 I am currently studying to be full stack developer.
 
