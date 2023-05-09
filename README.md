@@ -4,6 +4,8 @@ Sung Yi
 
 10.2 Pursuit Fellower | Graduated University of Missouri - St.Louis in 2017, (bachelor's degree of computer science)
 
+I am currently studying to be full stack developer.
+
 My skills include C, C++, and Java and web programming languages such as javascript with broad knowledge on general computer programming.
 
 I have enthusiasm to understand deep learning algorithms and AI, which is one of the famous algorithms in  machine learning fields in recent years. 
