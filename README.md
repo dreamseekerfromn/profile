@@ -1,6 +1,6 @@
 # Profile
 
-Sung Yi
+Sung Yi (sound like Suhng (sound like past participle for sing,) ee (yes, just E))
 
 10.2 Pursuit Fellow | Graduated University of Missouri - St.Louis in 2017, (bachelor's degree of computer science)
 
